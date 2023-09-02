@@ -1,0 +1,8 @@
+D:\simplIlearn\Phase-3\Assisted projects\Validations Data Annotations\Validations Data Annotations\obj\Debug\net6.0\Validations Data Annotations.csproj.AssemblyReference.cache
+D:\simplIlearn\Phase-3\Assisted projects\Validations Data Annotations\Validations Data Annotations\obj\Debug\net6.0\Validations Data Annotations.GeneratedMSBuildEditorConfig.editorconfig
+D:\simplIlearn\Phase-3\Assisted projects\Validations Data Annotations\Validations Data Annotations\obj\Debug\net6.0\Validations Data Annotations.AssemblyInfoInputs.cache
+D:\simplIlearn\Phase-3\Assisted projects\Validations Data Annotations\Validations Data Annotations\obj\Debug\net6.0\Validations Data Annotations.AssemblyInfo.cs
+D:\simplIlearn\Phase-3\Assisted projects\Validations Data Annotations\Validations Data Annotations\obj\Debug\net6.0\Validations Data Annotations.csproj.CoreCompileInputs.cache
+D:\simplIlearn\Phase-3\Assisted projects\Validations Data Annotations\Validations Data Annotations\obj\Debug\net6.0\Validations Data Annotations.MvcApplicationPartsAssemblyInfo.cache
+D:\simplIlearn\Phase-3\Assisted projects\Validations Data Annotations\Validations Data Annotations\obj\Debug\net6.0\Validations Data Annotations.RazorAssemblyInfo.cache
+D:\simplIlearn\Phase-3\Assisted projects\Validations Data Annotations\Validations Data Annotations\obj\Debug\net6.0\Validations Data Annotations.RazorAssemblyInfo.cs
